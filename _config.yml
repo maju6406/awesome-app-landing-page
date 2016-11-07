@@ -26,7 +26,7 @@ app:
 # Marketing
 #
 marketing_header: The Identifiers # Optional
-marketing_desc: Making it ridiculously easy to retrieve your device's Advertising Identifier
+marketing_desc: The app makes it ridiculously easy to retrieve your iOS device's Advertising Identifier. It is helpful for anyone debugging mobile apps especially people working in advertising.
 
 #
 # Social Links
