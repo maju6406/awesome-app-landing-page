@@ -26,7 +26,7 @@ app:
 # Marketing
 #
 marketing_header: The Identifiers # Optional
-marketing_desc: The app makes it ridiculously easy to retrieve your iOS device's Advertising Identifier. It is helpful for anyone debugging mobile apps especially people working in advertising. This app was created by <a href="http://abir.xyz">Abir Majumdar.</a> It will not connect or transmit your identifiers to anyone. Images provided by <a href="http://unsplash.com">Unsplashed</a>.
+marketing_desc: The app makes it ridiculously easy to retrieve your iOS device's Advertising Identifier. It is helpful for anyone debugging mobile apps especially people working in advertising. This app was created by <a href="http://abir.xyz">Abir Majumdar</a>. It will not connect or transmit your identifiers to anyone. Images provided by <a href="http://unsplash.com">Unsplashed</a>.
 
 #
 # Social Links
